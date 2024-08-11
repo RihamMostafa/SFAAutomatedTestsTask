@@ -1,0 +1,8 @@
+# requirements.txt
+
+appium-python-client==2.8.0  # Appium Python bindings
+pytest==7.1.2                # Testing framework for running tests
+pytest-html==3.1.1           # Plugin to generate HTML reports for pytest
+selenium==4.5.0              # Required for interacting with the web elements
+python-dotenv==0.21.0        # To handle environment variables (optional)
+allure-pytest==2.13.5
